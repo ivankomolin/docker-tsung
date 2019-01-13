@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-- [`latest`, `1.7.0` (*Dockerfile*)](https://github.com/ivankomolin/docker-tsung/Dockerfile)
+- [`latest`, `1.7.0` (*Dockerfile*)](https://github.com/ivankomolin/docker-tsung/blob/dev/Dockerfile)
 
 # Quick reference Tsung
 
